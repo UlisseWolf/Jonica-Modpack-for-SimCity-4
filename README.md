@@ -1,9 +1,9 @@
-# SimCity 4 - Ordinance Collection
-This repository contains the modpack of the ordinance collections. 
+# Jonica Modpack for SimCity 4
+This repository contains the entire modpack currently used in the Jonica region.
 
 ## Features
 
-This JSON file allows you to install all the ordinances developed by various members of the community.
+This JSON file allows you to install the Jonica modpack that I currently use in my standard gameplay.
 
 Please note that this modpack is only compatible with SimCity 4 version 1.1.641 (digital version available on Steam, GOG, and EA App). SimCity 4 versions other than the one indicated cannot install this modpack.
 
